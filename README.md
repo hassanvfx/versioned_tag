@@ -13,8 +13,15 @@ This bash script, `versioned_tag.sh`, assists in creating the next git tag versi
 ## Installation
 
 To clone and install the script for global access:
+
+BASH
 ```
-git clone https://github.com/hassanvfx/versioned_tag.git && chmod +x versioned_tag/versioned_tag.sh && sudo mv versioned_tag/versioned_tag.sh /usr/bin/versioned_tag.sh
+git clone https://github.com/hassanvfx/versioned_tag.git && cd versioned_tag && chmod +x versioned_tag.sh && echo "export PATH=\$PATH:$(pwd)" >> ~/.bash_profile && source ~/.bash_profile
+```
+
+ZSH
+```
+git clone https://github.com/hassanvfx/versioned_tag.git && cd versioned_tag && chmod +x versioned_tag.sh && echo "export PATH=\$PATH:$(pwd)" >> ~/.zshrc && source ~/.zshrc
 ```
 
 ## Usage
