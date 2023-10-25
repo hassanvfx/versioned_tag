@@ -14,7 +14,7 @@ This bash script, `versioned_tag.sh`, assists in creating the next git tag versi
 
 To clone and install the script for global access:
 ```
-git clone https://github.com/hassanvfx/versioned_tag.git && chmod +x versioned_tag/versioned_tag.sh && sudo mv versioned_tag/versioned_tag.sh /usr/local/bin/versioned_tag
+git clone https://github.com/hassanvfx/versioned_tag.git && chmod +x versioned_tag/versioned_tag.sh && sudo mv versioned_tag/versioned_tag.sh /usr/bin/versioned_tag.sh
 ```
 
 ## Usage
