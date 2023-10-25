@@ -29,7 +29,7 @@ git clone https://github.com/hassanvfx/versioned_tag.git && cd versioned_tag && 
 Once you've installed the script as described above:
 
 1. Navigate to the git repository you wish to work with.
-2. Run `./versioned_tag`.
+2. Run `versioned_tag`.
 3. Follow the on-screen prompts to increment the tag version as desired.
 
 ## License
