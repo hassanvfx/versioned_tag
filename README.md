@@ -1,8 +1,10 @@
 # Git Versioned Tag Script
 
-<img width="571" alt="image" src="https://github.com/hassanvfx/versioned_tag/assets/425926/8b9f0614-cb61-4223-9fbf-4299169ba12a">
-
 This bash script, `versioned_tag.sh`, assists in creating the next git tag version, adhering to the semantic versioning pattern (major.minor.patch).
+
+# Preview
+
+<img width="571" alt="image" src="https://github.com/hassanvfx/versioned_tag/assets/425926/8b9f0614-cb61-4223-9fbf-4299169ba12a">
 
 ## Prerequisites
 
